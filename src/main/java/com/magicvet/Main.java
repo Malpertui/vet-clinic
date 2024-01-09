@@ -6,7 +6,7 @@ import java.util.regex.Pattern;
 
 public class Main {
 
-    static String PASSWORD = "default1";
+    static String PASSWORD = "default12";
     static Scanner SCANNER = new Scanner(System.in);
 
     static String EMAIL_PATTERN = "^[a-zA-Z._%+-]+@[a-zA-Z.-]+\\.[a-zA-Z]{2,}$";
