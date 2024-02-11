@@ -1,11 +1,7 @@
 package main.java.com.magicvet.model;
 
 public class Dog extends Pet {
-/*    public static final String XS = "XS";
-    public static final String S = "S";
-    public static final String M = "M";
-    public static final String L = "L";
-    public static final String XL = "XL";*/
+
     private Size size;
 
     public Dog() {}
