@@ -89,7 +89,7 @@ public void addPet(Pet pet){
     }
 
     public enum Location {
-        KYIV, LVIV, ODESA
+        KYIV, LVIV, ODESA, UNKNOWN
 }
 
 }
