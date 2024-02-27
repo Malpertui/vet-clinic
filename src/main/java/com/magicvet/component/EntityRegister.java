@@ -24,6 +24,7 @@ public class EntityRegister {
         List<Client> clients = new ArrayList<>();
         String message = "Do you want to register more clients? (y/n): ";
 
+
         do  {
             Optional<Client> client = addClient();
             client.ifPresent(clients::add);
